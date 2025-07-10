@@ -17,7 +17,7 @@ const perguntarAI = async (question, game, apiKey) => {
     const model = "gemini-2.5-flash";
     const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
 
-    // monta o prompt com a pergunta para a AI responder
+    // prompt com a pergunta para a AI responder
     const agenteValorant = `
         ## Especialidade
         Você é um assistente especialista em estratégias, agentes, composições e meta competitivo de **Valorant**.
