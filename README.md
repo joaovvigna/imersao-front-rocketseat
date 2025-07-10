@@ -11,4 +11,4 @@ Um projeto imersivo front-end com um assistente inteligente que responde a pergu
 - Prompt dinâmico e contextualizado para cada jogo;
 - Resposta da IA formatada em **Markdown** e exibida diretamente no site.
 
-! Necessário o uso de uma APIKEY para o funcionamento do projeto.
+! Necessário o uso de uma APIKEY para o funcionamento.
