@@ -1,4 +1,4 @@
-# Agente de meta para jogos (Valorant, Counte-Strike, LoL)
+# Agente de meta para jogos (Valorant, Counte-Strike, League of Legens)
 
 Um projeto imersivo front-end com um assistente inteligente que responde a perguntas sobre estratégias, builds e meta de jogos como **Valorant**, **Counter-Strike** e **League of Legends**, utilizando a API do modelo **Gemini** (Google AI).
 
