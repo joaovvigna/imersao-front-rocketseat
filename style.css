@@ -125,12 +125,13 @@ button:disabled {
     background-color: rgba(0, 0, 0, 0.4);
     border-radius: 0.5rem;
     padding: 1.25rem;
+    margin-top: 1.5rem;
     border-left: 4px solid #43e7ad;
     color: white;
     width: 100% ;
 }
 
-#aiResponse ul {
+#aiResponse ul, ol{
     padding-left: 1.5rem;
     opacity: 0.8;
 }
